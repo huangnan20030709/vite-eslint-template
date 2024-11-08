@@ -1,12 +1,8 @@
-import React,{ useState } from 'react'
+import React from 'react';
 
 function App() {
-
-  return (
-    <>
-     app
-    </>
-  )
+  const a = 1;
+  return <>app</>;
 }
 
-export default App
+export default App;
